@@ -156,7 +156,7 @@ CES2024_COLUMNS = {
     "CC24_312h": "Job Approval - Senator 2",
 
     # ── Citizenship & Immigration ──
-    "cit1": "US citizen",
+    "cit1": "US citizen", 
     "immstat": "Immigration background",
 
     # ── Gun control (grid) ──
